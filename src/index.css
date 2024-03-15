@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+code {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+input{
+  margin-top: 10px;
+  height: 100%;
+  width: 100%;
+  border: 2px solid rgb(65, 55, 55);
+  border-radius: 15px;
+}
+
+table{
+  margin-top: 10vh;
+  text-align: center;
+  align-items: center;
+}
+
+td{
+  border: 1px solid black;
+}
